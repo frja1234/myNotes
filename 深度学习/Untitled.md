@@ -27,6 +27,15 @@ int main(){
 
 ```java
 ```
+
+```c++
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<"sd ds k";
+    
+}
+```
 ```c
  djdbdjdjqqqq
 djfjfifjtitji
