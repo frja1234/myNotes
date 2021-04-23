@@ -72,7 +72,12 @@ rirjriri----
 kekrkr----
 
 
+tgtgggggttrtgg
+
+<<<<<<< HEAD
 
 
 
-
+=======
+;j
+>>>>>>> 025ee267b1855d1a1c72c5beebdd09278b724c38
