@@ -3,6 +3,7 @@
 
 
 ##nija
+
 ssh-keygen -t rsa -C "1836567507@qq.com"
 
 ```java
@@ -27,6 +28,7 @@ int main(){
 ```
 
 ```java
+
 ```
 
 ```c++
@@ -43,7 +45,9 @@ djfjfifjtitji
 ```
 
 `fjfjfjrj`
-rndjdjfjrj
+rndjdjfjrj![QQ截图20190102161217](https://frjanotes.oss-cn-guangzhou.aliyuncs.com/mynotesImg/QQ%E6%88%AA%E5%9B%BE20190102161217.png)
+
+
 
 _jrfjjfjrjrj_
 
