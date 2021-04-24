@@ -1,4 +1,22 @@
+![QQ截图20190428131318](https://frjanotes.oss-cn-guangzhou.aliyuncs.com/mynotesImg/QQ%E6%88%AA%E5%9B%BE20190428131318.png)
+
+
+
+
+
+
+
+
+
 ![Car PNG](https://frjanotes.oss-cn-guangzhou.aliyuncs.com/mynotesImg/png-hd-of-car-ferrari-sergio-png-hd-farrari-hd-png-1205-thumbnails.png)、
+
+——bcsc
+
+# sdvjns
+
+
+
+ 
 
 ![](https://frjanotes.oss-cn-guangzhou.aliyuncs.com/mynotesImg/png-hd-of-car-ferrari-sergio-png-hd-farrari-hd-png-1205-thumbnails.png)
 
@@ -25,7 +43,8 @@ int main(){
     System.out.println("dbsbj");
 }
 ```
-
+vgvuu
+vhvh
 ```java
 #include<stdio.h>
 int main(){
@@ -63,6 +82,8 @@ _jrfjjfjrjrj_
 rjdidjiejeieeiieieieie
 ```
 
+![](https://frjanotes.oss-cn-guangzhou.aliyuncs.com/mynotesImg/QQ%E6%88%AA%E5%9B%BE20190428131318.png)
+
 
 
 > rjfifjrkrkri
@@ -74,10 +95,6 @@ kekrkr----
 
 tgtgggggttrtgg
 
-<<<<<<< HEAD
 
 
 
-=======
-;j
->>>>>>> 025ee267b1855d1a1c72c5beebdd09278b724c38
